@@ -4,7 +4,7 @@ import os
 from urllib import parse
 
 HEADER="""# 
-## Ziho's Baekjoon & Programmers Algorithm Problem Solutions
+## Jiho's Baekjoon & Programmers Algorithm Problem Solutions
 \t - The algorithm solution history in this repository is automatically updated upon uploading
 """
 
