@@ -1,0 +1,2 @@
+# Algorithm
+Jiho's Algorithm
